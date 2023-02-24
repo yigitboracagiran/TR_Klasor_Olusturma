@@ -1,4 +1,4 @@
-# Klasor_Olusturma
+# Klasör Oluşturma
 
 Bu kod C++ ile belirlediğiniz yere klasör oluşturur.
 
